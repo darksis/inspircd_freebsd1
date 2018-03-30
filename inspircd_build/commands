@@ -1,1 +1,7 @@
-
+commands run inspircd in FreeBsd home and ports
+chmod +x build.sh
+chmod +x fetch.sh
+chmod +x extract.sh
+./fetch.sh
+./extract.sh
+./build.sh
