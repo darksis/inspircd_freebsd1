@@ -1,4 +1,5 @@
 commands run inspircd in FreeBsd home and ports
+portmaster -Bd graphics/libqrencode
 chmod +x build.sh
 chmod +x fetch.sh
 chmod +x extract.sh
